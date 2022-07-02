@@ -1,0 +1,11 @@
+WUElev8 Testing:-
+
+Manual Testing
+API Testing- Postman, Swagger, Rest Assured Java Library
+
+60 APIs till date
+
+Automation Testing- Selenium,TestNG
+
+
+
